@@ -3,7 +3,7 @@
 This project demonstrates a Stochastic Similarity Filter (SSF) for video frame processing using Python and OpenCV. The filter probabilistically skips processing frames that are similar to a reference frame, reducing computational load for video analysis tasks.
 
 # SSF Flow Diagram
-![alt text](image.png)
+![alt text](/media/image.png)
 
 **Flow Explanation (Neural Network Use Case):**
 1. Capture an input image frame from the video source (webcam or file).
